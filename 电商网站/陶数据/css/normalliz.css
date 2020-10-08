@@ -1,0 +1,29 @@
+/* css重置属性 */
+*{
+    margin:0;
+    padding:0;
+}
+li{
+    list-style: none;
+}
+i,em{
+    font-style: normal;
+}
+a{
+    color: #fff;
+    text-decoration: none;
+}
+.fl{
+    float: left;
+}
+.fr{
+    float: right;
+}
+.w1180{
+    width: 1180px !important;
+    margin:0 auto;
+    height: 100px;
+}
+body{
+    height: 1000px;
+}
